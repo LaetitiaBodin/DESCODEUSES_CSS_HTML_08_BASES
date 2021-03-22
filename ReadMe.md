@@ -1,0 +1,1 @@
+Créer un tableau contenant une liste de 20 élèves avec nom, prénom, date de naissance, date d'entrée en formation et nom de personne à contacter en cas d'urgence.
